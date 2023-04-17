@@ -1,2 +1,15 @@
 # Data_Structur
 大二下数据结构
+- [Thread Node](https://github.com/zuti666/Data_Structur/tree/master/ThreadNode)
+- [Dbl Node](https://github.com/zuti666/Data_Structur/tree/master/DblNode)
+- [List](https://github.com/zuti666/Data_Structur/tree/master/List)
+- [Seq List]()
+- [Satic List](https://github.com/zuti666/Data_Structur/tree/master/SeqList)
+- [Seq Queue](https://github.com/zuti666/Data_Structur/tree/master/SeqQueue)
+- [link Queue](https://github.com/zuti666/Data_Structur/tree/master/LinkQueue)
+- [Seq Stack](https://github.com/zuti666/Data_Structur/tree/master/SeqStack)
+- [Min Heap](https://github.com/zuti666/Data_Structur/tree/master/MinHeap)
+- [Max Heap](https://github.com/zuti666/Data_Structur/tree/master/MaxHeap)
+- [Binary Tree](https://github.com/zuti666/Data_Structur/tree/master/BinaryTree)
+- [Graph Lnk](https://github.com/zuti666/Data_Structur/tree/master/Graphlnk)
+- [Graph mtx](https://github.com/zuti666/Data_Structur/tree/master/Graphmtx)
